@@ -9067,3 +9067,16 @@
                     border: 1px solid #ddd!important
                 }
             }
+
+            footer {
+            text-align: center;
+            background-color: #7289da;
+            color: #fff;
+            padding: 10px 0;
+        }
+        /* Стили для ссылки */
+        footer a {
+            color: #fff;
+            text-decoration: none;
+        }
+    
