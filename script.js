@@ -18,7 +18,7 @@
         function fnCopy2() {
             navigator.clipboard.writeText(`Клиент ошибочно передал показания от ${fDate.value} на То ${fT0.value}; Т1 ${fT1.value} ; Т2 ${fT2.value} ; Т3 ${fT3.value} ; 
 Корректировочные показания на ${tDate.value} То ${tT0.value} ; Т1 ${tT1.value} ; Т2 ${tT2.value} ; Т3 ${tT3.value} ;
-Показания клиента на ${formattedDate} равны: То ${tT0.value} ; Т1 ${tT1.value} ; Т2 ${tT2.value} ; Т3 ${tT3.value} ;`)
+Показания клиента на ${formattedDate} равны: То  ; Т1  ; Т2  ; Т3  ;`)
             alert("Скопировано. Можно вставлять в обращение.")
         }
         function fnCopy3() {    
